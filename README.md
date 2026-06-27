@@ -4,8 +4,8 @@
 
 I work across geospatial analysis and data systems, building spatial workflows, PostGIS-backed data structures, and reproducible pipelines for large, complex spatial datasets. My work includes spatial ETL, schema design, automation, and scalable geodata processing across a range of geospatial applications.
 
-📧 **Email:** dylankelly32093@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/dylanrk93
+- 📧 **Email:** dylankelly32093@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/dylanrk93
 ---
 
 ## 🗺️ Geospatial & Data Systems Projects
