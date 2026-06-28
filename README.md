@@ -4,6 +4,7 @@
 
 I work across geospatial analysis and data systems, building spatial workflows, PostGIS-backed data structures, and reproducible pipelines for large, complex spatial datasets. My work includes spatial ETL, schema design, automation, and scalable geodata processing across a range of geospatial applications.
 
+- 📍 **Location:** Cambridge, MA 
 - 📧 **Email:** dylankelly32093@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/dylanrk93
 ---
@@ -18,7 +19,7 @@ I work across geospatial analysis and data systems, building spatial workflows, 
   Leaflet.js web application visualizing Boston street trees using PostGIS and Geoserver.
 - [webapp-arcgis-landcover-viewer](https://github.com/DK32093/webapp-arcgis-landcover-viewer)<br>
   ArcGIS Maps SDK for JavaScript app displaying Sentinel‑2 land cover by watershed.
-  
+
 
 ## 🌐 Web Development Training Projects
 Lightweight HTML/CSS/JS projects completed while working through The Odin Project.  
