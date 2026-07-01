@@ -11,6 +11,8 @@ I work across geospatial analysis and data systems, building spatial workflows, 
 
 ## 🗺️ Geospatial & Data Systems Projects<br>
 
+### 🌎 **More content coming soon!** 🌎
+
 ### Vector Workflows
 - [vector-osmnx-tree-analysis](https://github.com/DK32093/vector-osmnx-tree-analysis)<br>Python vector workflow using OSMnx to analyze street tree density and spatial patterns.
 
